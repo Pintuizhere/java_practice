@@ -17,10 +17,9 @@ public class SumExample {
         System.out.println("Sum of a and b is: " + sum);
     }
 }
-🔢 2. Sum Using Scanner Input
-java
-Copy
-Edit
+---java
+##🔢 2. Sum Using Scanner Input
+
 import java.util.Scanner;
 
 public class ScannerSum {
@@ -40,17 +39,12 @@ public class ScannerSum {
 🧩 3. Pattern Printing Using Nested Loops
 This program prints the following pattern:
 
-yaml
-Copy
-Edit
 1
 11
 111
 1111
 11111
-java
-Copy
-Edit
+
 public class PatternPrinter {
     public static void main(String[] args) {
         for (int i = 1; i <= 5; i++) {
