@@ -1,4 +1,4 @@
-﻿# java_practice
+
 # Java Practice Repository
 
 This repository contains basic Java programs for beginners to practice fundamental concepts.
